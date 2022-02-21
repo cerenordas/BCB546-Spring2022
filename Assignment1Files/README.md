@@ -327,4 +327,4 @@ git add . to add all the files to the given folder.
 git status to view the files that are going to be staged to the commit.
 git commit -m 'Assignment1Final'
 git push to upload it to GitHub and submit it:
-git push -u origin master
+git push
