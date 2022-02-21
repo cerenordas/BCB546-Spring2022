@@ -1,0 +1,19 @@
+
+Git commits allow you to easily reproduce and rollback to past versions of analysis. 
+
+It’s really convenient that you can track files in Git and look at its status.
+
+Also, you can go to your previous work if you make a mistake when you’re making a change.
+
+The collaboration aspect of git is the most convenient part. Getting files from a shared central repository to mine using git pull and sharing my own work wit the central repository using git push, etc.
+
+
+If our contents get lost for some reason, we can also restore the file by checking out by using “git checkout” which is again very convenient for someone like me who accidentally deletes stuff all the time.
+
+
+When would using the stash command be the most appropriate?
+
+I’m not really sure how branching works. It’s kind of confusing.
+
+Is there a way to not run into a merge conflict?
+
