@@ -324,8 +324,7 @@ The 44 files are all in Assignment1FinalFiles which is in the Assignment1Files.
 git status to to see which files to add and then git commit to commit the files in the local repository.
 
 git add . to add all the files to the given folder.
+git status to view the files that are going to be staged to the commit.
 git commit -m 'Assignment1Final'
-
 git push to upload it to GitHub and submit it:
-
-git push
+git push -u origin master
